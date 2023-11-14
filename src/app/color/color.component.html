@@ -1,0 +1,16 @@
+<div id="test" [style.color]="color"  [style.font-family]="font" [style.font-size]="size" >Test</div>
+  <div class="row" >
+    <input  [(ngModel)]="color"  type="color" class="form-control col">
+    <input #inputSize (change)="changeSize(inputSize)" type="text" class="form-control col">
+    <select [(ngModel)]="font" class="form-control col">
+      <option value="arial">arial</option>
+      <option value="aakar">aakar</option>
+      <option value="chilanka">chilanka</option>
+    </select>
+  </div>
+
+<input appRainbow type="text" [ngStyle]="{
+width: '100%',
+'outline': 'none',
+'marginTop': '40px',
+}">

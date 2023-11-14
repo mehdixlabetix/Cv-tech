@@ -1,27 +1,45 @@
-# Cv
+<h1 align="center" id="title">Cv Management App</h1>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.10.
+<p align="center"><img src="https://socialify.git.ci/mehdixlabetix/Cv-tech/image?description=1&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Diagonal%20Stripes&amp;theme=Auto" alt="project-image"></p>
 
-## Development server
+<p id="description">Manage and organize your curriculum vitae (CV) efficiently with this Angular-based CV Management App. This application provides a user-friendly interface for creating editing and organizing CVs. Track your professional achievements skills and experiences with ease. Empower yourself to present your qualifications effectively with this comprehensive CV management solution.</p>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+<h2>🧐 Features</h2>
 
-## Build
+Here're some of the project's best features:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- **CV Creation:** Easily add new CVs to the system.
+- **Hiring CVs:** Streamline the process of reviewing and hiring candidates through their CVs.
+- **CV Removal:** Remove unnecessary or outdated CVs from the database.
 
-## Running unit tests
+<h2>🛠️ Installation Steps:</h2>
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+<p>1. Cloning the repo</p>
 
-## Running end-to-end tests
+```
+git clone https://github.com/mehdixlabetix/Cv-tech
+```
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+<p>2. Install dependencies</p>
 
-## Further help
+```
+npm install
+```
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+<p>3. Start the app</p>
+
+```
+Ng serve
+```
+
+<h2>💻 Built with</h2>
+<p>Angular Framework</p>
+<p>Bootstrap</p>
+
+
+<h2>🙋‍♂️ Author</h2>
+<p>Mehdi Cherif</p>
+
+
